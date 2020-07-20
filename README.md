@@ -1,5 +1,5 @@
 # currency_converter_app
-<h1>Currency converter application developed in reactjs<h1>
+Currency converter application developed in reactjs
 
 link to view the project : <strong>currency-converter-app-surge.sh<strong>
 
